@@ -7,3 +7,10 @@ cmd.exe is a termnal
 2. A shell is a program that runs in a terminal, waits for user input, then executes the commands he user typed 
 - terminals don't care 
 hi 2.0
+
+"git add" sets the file up to be commited
+"git commit" tells others why you made changes to a file
+"git status" shows the status of your files 
+"git diff" shows you the changes you made
+"git push" adds your files to GitHub
+"git log" shows you your history of commits
