@@ -1,1 +1,9 @@
-hi
+"git status" shows the status of the working tree
+"git add" schedule a file or directory for inclusion or repository
+termnal, shells, and command line
+1. Terminal - is a program that shows a buffer full of text
+commandeer is a termnal
+cmd.exe is a termnal
+2. A shell is a program that runs in a terminal, waits for user input, then executes the commands he user typed 
+- terminals don't care 
+hi 2.0
